@@ -42,7 +42,7 @@ def main():
    <div class="col-md-12">
    <center><p style="font-size:40px;color:black;margin-top:10px;">Poornima Institute of Engineering & Technology</p></center> 
    <center><p style="font-size:30px;color:black;margin-top:10px;">Department of Computer Engineering</p></center> 
-   <center><p style="font-size:25px;color:black;margin-top:10px;"Machine Learning Lab Experiment</p></center> 
+   <center><p style="font-size:25px;color:black;margin-top:10px;"Machine Learning Lab</p></center> 
    </div>
    </div>
    </div>
@@ -63,7 +63,7 @@ def main():
       st.success('Model has predicted {}'.format(result))
       
     if st.button("About"):
-      st.subheader("Developed by Deepak Moud")
+      st.subheader("Developed by Rishav bansal")
       st.subheader("Head , Department of Computer Engineering")
 
 if __name__=='__main__':
